@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "InfixToPostfixConversion",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "InfixToPostfixConversion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InfixToPostfixConversion-Debug-a6f4370115846aec7ce3.json",
+					"name" : "InfixToPostfixConversion",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/oriade-soft-dev/CLionProjects/C++/DSAndAlgo/MuhammadAlBasri/Stacks/InfixToPostfixConversion/cmake-build-debug",
+		"source" : "/home/oriade-soft-dev/CLionProjects/C++/DSAndAlgo/MuhammadAlBasri/Stacks/InfixToPostfixConversion"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

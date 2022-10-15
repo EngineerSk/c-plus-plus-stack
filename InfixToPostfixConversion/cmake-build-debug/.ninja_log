@@ -1,0 +1,7 @@
+# ninja log v5
+0	681	1665574341557169603	CMakeFiles/InfixToPostfixConversion.dir/main.cpp.o	3114c63afae875e7
+684	847	1665574341721172887	InfixToPostfixConversion	75787bf42ebc1279
+1	347	1665574381049938246	CMakeFiles/InfixToPostfixConversion.dir/main.cpp.o	3114c63afae875e7
+347	437	1665574381137939911	InfixToPostfixConversion	75787bf42ebc1279
+1	337	1665574448767160706	CMakeFiles/InfixToPostfixConversion.dir/main.cpp.o	3114c63afae875e7
+337	438	1665574448867162429	InfixToPostfixConversion	75787bf42ebc1279
